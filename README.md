@@ -6,7 +6,7 @@ GitHub repo: YouTube data analysis using Python. Explore sentiment, word clouds,
 ## Datasets
 I've added the datasets in compressed format due to their size. There are two files:
 1. USComments
-2. Additional data from different regions, including JSON and CSV files.
+2. Additional_data from different regions, including JSON and CSV files.
 
 ## Problem Statement
 In this case study, we analyze YouTube data, focusing on:
