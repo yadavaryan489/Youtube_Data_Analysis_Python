@@ -16,7 +16,7 @@ In this case study, we analyze YouTube data, focusing on:
 - Data Collection and Export
 - Identifying the Most Liked Categories
 - Analyzing Audience Engagement Metrics
-- Trending Video Tags
+- Channels Having Largest number of trending Videos
 - Punctuation Impact on Views, Likes, and Dislikes.
 
 For detailed code explanations and analysis, please refer to the accompanying Jupyter Notebook (ipynb) files within the repository.
